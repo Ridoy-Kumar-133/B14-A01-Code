@@ -45,7 +45,7 @@ nav{
 
 /* Hero section css Start */
 .banner{
-    background-image: url(/assets/banner.jpg);
+    background-image: url('../assets/banner.jpg');
     height: 700px;
     width: 100%;
     position: relative;
@@ -101,6 +101,6 @@ nav{
 }
 
 .card{
-    
+
 }
 
