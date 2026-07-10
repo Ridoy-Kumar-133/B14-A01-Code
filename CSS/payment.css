@@ -1,0 +1,104 @@
+.secure-your-spot{
+    height: 718px;
+    width: 1300px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.secure-your-spot .secure-header{
+    width: 100%;
+    height: 96px;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.secure-your-spot p{
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+.cost-card{
+    height: 444px;
+    width: 370px;
+    border: 1px solid rgb(156, 145, 145);
+    margin: 20px 10px 0px 20px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.cost-card .cost-card-1{
+    height: 30px;
+
+}
+
+.cost-card .cost-card-1 p{
+    font-size: 15px;
+    color: rgb(131, 122, 122);
+}
+
+.cost-card .cost-card-2{
+    height: 40px;
+}
+
+.cost-card .cost-card-2 h2{
+    font-size: 40px;
+}
+
+.cost-card  .cost-card-3{
+    height: 24px;
+    margin-bottom: 20px;
+}
+
+.cost-card .cost-card-3 p{
+    color: rgb(114, 108, 108);
+
+}
+
+.cost-card .cost-card-4{
+    height: 176px;
+}
+
+.cost-card .cost-card-4 li{
+    margin: 5px;
+}
+
+.cost-card .cost-card-5 button{
+    height: 45px;
+    width: 300px;
+    border: 1px solid #2563EB;
+    background-color: white;
+    color: #2563EB;
+}
+
+.carddiv{
+    display: flex;
+}
+
+.black{
+    background-color: #0D1B2A;
+}
+
+.black .cost-card-1 p{
+    color: #93C5FD;
+}
+
+.black .cost-card-2 h2{
+   color: #FFFFFF;
+}
+.black .cost-card-3 p{
+    color: #FFFFFF;
+    opacity: 50%;
+}
+
+.black .cost-card-4 li{
+    color: #FFFFFF;
+    opacity: 80%;
+}
+
+.black .cost-card-5 button{
+    background-color: #2563EB;
+    color: white;
+}
+
+
