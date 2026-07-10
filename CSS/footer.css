@@ -1,0 +1,22 @@
+.foot{
+    height: 120px;
+    background-color: #0D1B2A;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.foot p{
+    color: #FFFFFF;
+    opacity: 40%;
+}
+
+.foot .next{
+    display: flex;
+    gap: 20px;
+}
+
+.foot .next p{
+    color: #FFFFFF;
+    opacity: 40%;
+}
