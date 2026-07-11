@@ -1,7 +1,7 @@
 .foot{
-    height: 120px;
+    height: 70px;
     background-color: #0D1B2A;
-    padding: 50px;
+    padding: 20px;
     display: flex;
     justify-content: space-between;
 }
@@ -19,4 +19,31 @@
 .foot .next p{
     color: #FFFFFF;
     opacity: 40%;
+}
+
+.footer-logo{
+    display: flex;
+    padding: 30px 0px 10px 50px;
+    height: 80px;
+    background-color: #0D1B2A;
+}
+
+.footer-logo .contact-us{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 30px;
+     color: white;
+    padding-right: 40px;
+}
+
+.footer-logo .div{
+    width: 50%;
+}
+.div2{
+    margin: auto;
+    height: 1px;
+    width: 100%;
+    border: 1px solid rgb(111, 117, 152);
 }
