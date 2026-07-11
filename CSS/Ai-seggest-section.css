@@ -1,0 +1,42 @@
+.why{
+    background-color: rgb(3, 3, 33);
+   height: 230px; 
+   display: flex;
+   justify-content: center;
+   gap: 130px;
+}
+
+.why .why-div-1{
+    text-align: center;
+    padding: 30px;
+}
+
+.why .why-div-1, .why .why-div-2{
+    color: white;
+}
+
+.why .why-div-2{
+    margin: 20px 10px 0px 20px;
+    height: 150px;
+    width: 150px;
+    
+}
+
+.why .why-div-2 .logo{
+    padding-bottom: 10px;
+    opacity: 50%;
+}
+
+.before-why{
+    background-color: rgb(3, 3, 33);
+    text-align: center;
+    padding: 20px;
+}
+
+.before-why h2{
+    color: white;
+}
+
+
+
+
